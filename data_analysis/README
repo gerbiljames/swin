@@ -1,0 +1,9 @@
+these scrips should be run from this directory
+
+they will find the logs needed to generate plots and other goodies
+
+you will need the following R libraries:
+
+stringr
+gtools
+effsize
